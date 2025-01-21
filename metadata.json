@@ -1,0 +1,8 @@
+{
+  "name": "Divia next stop",
+  "description": "Show you the next time the bus is comming at a defined bus stop",
+  "uuid": "Divia-next-stop@Brodix",
+  "shell-version": [
+    "46"
+  ]
+}
